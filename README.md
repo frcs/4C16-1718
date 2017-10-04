@@ -39,6 +39,11 @@ guest lectures from these companies.
 * [video (lecture 28/09/2017)](https://youtu.be/j-sxXyye3JE)
 * [video (lecture 02/10/2017)](https://youtu.be/rHXUc0PCvU0)
 
+## 02 - Logistic Regression
+
+* [pdf slides](/handouts/handout-02-logistic-regression.pdf)
+
+
 
 
 
