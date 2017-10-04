@@ -25,6 +25,9 @@ guest lectures from these companies.
 
 # Handouts
 
+## labs
+* [pdf slides (intro)](/handouts/python_lab.no_notes.pdf)
+
 ## 00 - Introduction
 
 * [pdf slides](/handouts/handout-00-intro.pdf)
