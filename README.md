@@ -38,6 +38,8 @@ guest lectures from these companies.
 * [video (lecture 27/09/2017)](https://youtu.be/pl7uguLTMyA)
 * [video (lecture 28/09/2017)](https://youtu.be/j-sxXyye3JE)
 * [video (lecture 02/10/2017)](https://youtu.be/rHXUc0PCvU0)
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf)
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf)
 
 ## 02 - Logistic Regression
 
