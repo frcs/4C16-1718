@@ -43,6 +43,10 @@ guest lectures from these companies.
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 
+## 03 - Classic Classifiers
+
+* [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
+
 
 
 
