@@ -42,7 +42,8 @@ guest lectures from these companies.
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
-* video lectures to be re-recorded due to technical issues
+* [video (lecture 04/10/2017)](https://youtu.be/Ab-IqBhbCJc)
+*  video lecture 05/10/2017 to be re-recorded due to technical issues
 
 ## 03 - Classic Classifiers
 
