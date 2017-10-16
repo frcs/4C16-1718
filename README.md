@@ -38,17 +38,20 @@ guest lectures from these companies.
 * [video (lecture 27/09/2017)](https://youtu.be/pl7uguLTMyA)
 * [video (lecture 28/09/2017)](https://youtu.be/j-sxXyye3JE)
 * [video (lecture 02/10/2017)](https://youtu.be/rHXUc0PCvU0)
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf)
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf)
 
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
-* video lecture to be re-recorded because of technical issues in the cross-land theatre
+* [video (lecture 04/10/2017)](https://youtu.be/Ab-IqBhbCJc)
+* video lecture 05/10/2017 to be re-recorded due to technical issues in the cross-land theatre
 
 ## 03 - Classic Classifiers
 
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
 * [video (lecture 09/10/2017)](https://youtu.be/Liv6XrvM5A4)
-* video lecture to be re-recorded because of technical issues in the cross-land theatre
+* video lecture 12/10/2017 to be re-recorded because of technical issues in the cross-land theatre
 
 ## 04 - Evaluating Classifier Performance
 
