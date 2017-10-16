@@ -42,10 +42,15 @@ guest lectures from these companies.
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
-* video lectures to be re-recorded due to technical issues
+* video lecture to be re-recorded because of technical issues in the cross-land theatre
 
 ## 03 - Classic Classifiers
 
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
 * [video (lecture 09/10/2017)](https://youtu.be/Liv6XrvM5A4)
+* video lecture to be re-recorded because of technical issues in the cross-land theatre
+
+## 04 - Evaluating Classifier Performance
+
+* [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
 
