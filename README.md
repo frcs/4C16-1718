@@ -57,4 +57,5 @@ guest lectures from these companies.
 ## 04 - Evaluating Classifier Performance
 
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
+* [video (lecture 18/10/2017)](https://youtu.be/W_TsGSfc4ug)
 
