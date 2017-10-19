@@ -59,3 +59,8 @@ guest lectures from these companies.
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
 * [video (lecture 18/10/2017)](https://youtu.be/W_TsGSfc4ug)
 
+## 05 - Deep FeedForward Networks
+
+* [pdf slides](/handouts/handout-05-deep-feedforward-networks-pt1.pdf)
+
+
