@@ -63,4 +63,6 @@ guest lectures from these companies.
 
 * [pdf slides](/handouts/handout-05-deep-feedforward-networks-pt1.pdf)
 * [video (lecture 19/10/2017)](https://youtu.be/2r4ex3sqTJE)
+* [video (lecture 23/10/2017)](https://youtu.be/hVxO5LoLUWI)
+
 
