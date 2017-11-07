@@ -65,6 +65,10 @@ guest lectures from these companies.
 * [video (lecture 19/10/2017)](https://youtu.be/2r4ex3sqTJE)
 * [video (lecture 23/10/2017)](https://youtu.be/hVxO5LoLUWI)
 
+## 06 - Convolutional Neural Networks
+
+* [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
+
 
 
 
