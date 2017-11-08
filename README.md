@@ -68,7 +68,7 @@ guest lectures from these companies.
 ## 06 - Convolutional Neural Networks
 
 * [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
-
+* [video](https://youtu.be/5Nm5aK4pd40)
 
 
 
