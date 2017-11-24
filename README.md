@@ -80,10 +80,10 @@ guest lectures from these companies.
 
 ## Keynotes
 
-* Michaela Blott - Xilinx
+### Michaela Blott - Xilinx
 
-[video](https://youtu.be/pIVh-4tqjPc)
 
-[pdf slides](/keynotes/4c16-keynote-23-11-2017-Michaela_Blott-Xilinx.pdf)
+* [video](https://youtu.be/pIVh-4tqjPc)
+* [pdf slides](/keynotes/4c16-keynote-23-11-2017-Michaela_Blott-Xilinx.pdf)
 
 
