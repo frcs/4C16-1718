@@ -70,5 +70,20 @@ guest lectures from these companies.
 * [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
 * [video](https://youtu.be/5Nm5aK4pd40)
 
+## 07 - Advances in Convolutional Neural Networks Architectures
+
+* pdf slides to come
+* video to come
+
+
+
+
+## Keynotes
+
+* Michaela Blott - Xilinx
+
+[video](https://youtu.be/pIVh-4tqjPc)
+
+[pdf slides](/keynotes/4c16-keynote-23-11-2017-Michaela_Blott-Xilinx.pdf)
 
 
