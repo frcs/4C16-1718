@@ -15,8 +15,8 @@ The course starts with an introduction to some essential aspects of Machine
 Learning, including Least Squares, Logistic Regression and a quick overview of
 some popular classification techniques.
 
-Then the course dives into the fundamentals of Neural Nets, including Feed
-Forward Neural Nets, Convolution Neural Nets, autoencoders and Recurrent Neural
+Then the course dives into the fundamentals of Neural Nets, including
+Feed Forward Neural Nets, Convolution Neural Nets and Recurrent Neural
 Nets.
 
 The material is constructed in collaboration with leading industrial
@@ -70,18 +70,24 @@ guest lectures from these companies.
 * [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
 * [video](https://youtu.be/5Nm5aK4pd40)
 
-## 07 - Advances in Convolutional Neural Networks Architectures
+## 07 - Advances in Neural Networks Architectures
+
+* [pdf slides](handouts/handout-07-advances-in-network-architectures.pdf)
+* video to come
+
+## 08 - Working with Text
 
 * pdf slides to come
 * video to come
 
+## 09 - Recurrent Neural Networks
 
-
+* pdf slides to come
+* video to come
 
 ## Keynotes
 
 ### Michaela Blott - Xilinx
-
 
 * [video](https://youtu.be/pIVh-4tqjPc)
 * [pdf slides](/keynotes/4c16-keynote-23-11-2017-Michaela_Blott-Xilinx.pdf)
