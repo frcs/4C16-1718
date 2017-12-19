@@ -80,7 +80,7 @@ guest lectures from these companies.
 
 ## 09 - Recurrent Neural Networks
 
-* use pdf from Fei-Fei Li & Justin Johnson & Serena Yeung's course at Stanford [https://goo.gl/V7NDbf]. Look at material covered from slide 10 to 76. You also nede to know that LSTM and GRU can be used as replacement to simple RNNs. LSTM and GRU were designed to specifically address the problem of vanishing/exploding gradients.
+* use pdf from Fei-Fei Li & Justin Johnson & Serena Yeung's course at Stanford [https://goo.gl/V7NDbf]. Look at material covered from slide 10 to 76. You also need to know that LSTM and GRU can be used as replacement to simple RNNs. LSTM and GRU were designed to specifically address the problem of vanishing/exploding gradients.
 
 ## Keynotes
 
@@ -90,7 +90,7 @@ guest lectures from these companies.
 * [pdf slides](/keynotes/4c16-keynote-23-11-2017-Michaela_Blott-Xilinx.pdf)
 
 
-# Sample Exam
+## Sample Exam
 
 * [sample exam](/misc/EE4C16-sample-exam.pdf)
 
