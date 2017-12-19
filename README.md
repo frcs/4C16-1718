@@ -45,14 +45,14 @@ guest lectures from these companies.
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 * [video (lecture 04/10/2017)](https://youtu.be/Ab-IqBhbCJc)
-* video lecture 05/10/2017 to be re-recorded due to technical issues in the cross-land theatre
+* video lecture 05/10/2017 missing due to technical issues in the cross-land theatre
 * [pdf tutorial on logistic regression](/handouts/tutorial-02-logistic-regression.pdf)
 
 ## 03 - Classic Classifiers
 
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
 * [video (lecture 09/10/2017)](https://youtu.be/Liv6XrvM5A4)
-* video lecture 12/10/2017 to be re-recorded because of technical issues in the cross-land theatre
+* video lecture 12/10/2017 missing due to technical issues in the cross-land theatre
 
 ## 04 - Evaluating Classifier Performance
 
@@ -73,17 +73,14 @@ guest lectures from these companies.
 ## 07 - Advances in Neural Networks Architectures
 
 * [pdf slides](handouts/handout-07-advances-in-network-architectures.pdf)
-* video to come
 
 ## 08 - Working with Text
 
 * pdf slides to come
-* video to come
 
 ## 09 - Recurrent Neural Networks
 
-* pdf slides to come
-* video to come
+* use pdf from Fei-Fei Li & Justin Johnson & Serena Yeung's course at Stanford [https://goo.gl/V7NDbf]. Look at material covered from slide 10 to 76. You also nede to know that LSTM and GRU can be used as replacement to simple RNNs. LSTM and GRU were designed to specifically address the problem of vanishing/exploding gradients.
 
 ## Keynotes
 
@@ -91,5 +88,10 @@ guest lectures from these companies.
 
 * [video](https://youtu.be/pIVh-4tqjPc)
 * [pdf slides](/keynotes/4c16-keynote-23-11-2017-Michaela_Blott-Xilinx.pdf)
+
+
+# Sample Exam
+
+* [sample exam](/misc/EE4C16-sample-exam.pdf)
 
 
