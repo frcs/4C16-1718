@@ -92,6 +92,6 @@ guest lectures from these companies.
 
 ## Sample Exam
 
-* [sample exam](/misc/EE4C16-sample-exam.pdf)
+* [sample exam](/misc/EE4C16-exam-sample.pdf)
 
 
