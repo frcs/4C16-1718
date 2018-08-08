@@ -23,6 +23,21 @@ The material is constructed in collaboration with leading industrial
 practitioners including Google, YouTube and Movidius, and students will have
 guest lectures from these companies.
 
+
+## Labs
+
+We have designed a unique environment specifically for this course so
+that students can learn best industry practices.
+
+Our web platform can transparently connect students to a Google Cloud
+Platform cluster via web based terminal/editor/Jupyter sessions. Labs
+use the Keras framework and are automatically assessed using Git to
+give immediate feedback.
+
+Labs include designing and training various DNN for image
+classification challenges, self driving car (simulator) and text
+processing.
+
 # Handouts
 
 ## labs
@@ -89,6 +104,13 @@ guest lectures from these companies.
 * [video](https://youtu.be/pIVh-4tqjPc)
 * [pdf slides](/keynotes/4c16-keynote-23-11-2017-Michaela_Blott-Xilinx.pdf)
 
+### Dr. George Toderici - Google Research
+
+* see BlackBoard
+
+### Dr. Sofiane Yous - Intel/Movidius
+
+* see BlackBoard
 
 ## Sample Exam
 
