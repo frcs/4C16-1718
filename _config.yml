@@ -1,1 +1,34 @@
 theme: jekyll-theme-cayman
+
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            4C16
+tagline:          Course on Deep Learning and its Applications (2017-2018)
+description:      'Course on Deep Learning and its Applications (2017-2018)'
+baseurl:          /
+
+author:
+  name:           'François Pitié'
+  url:            https://francois.pitie.net
+
+plugins:
+  - jekyll-sitemap
+
+theme: jekyll-theme-cayman
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/frcs/4C16-2017
+  projects:       https://github.com/frcs
+  zip_url:
+  tar_url:
+  is_project_page: false
+  owner_name: 	   'Prof. Francois Pitie'
+
+Comments: false
